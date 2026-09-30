@@ -1,5 +1,5 @@
 /* ─────────────────────────────────────────────────────────────
-   Dennis Mwaniki — Portfolio Script
+   Portfolio Script
    Handles: navigation, scroll effects, reveal animations,
             active nav state, mobile menu, form validation,
             back-to-top button
